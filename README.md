@@ -1,4 +1,3 @@
 <h3 align="center">
-heyyyyyyy!
-<img src="https://media0.giphy.com/media/19RuhDKt17MCfnmK8A/giphy.gif?cid=790b7611d0ef108a2755ee8aca3de9de4875abd26fb6e844&rid=giphy.gif&ct=ts" width=300>
+<img src="https://media2.giphy.com/media/YPzmppvH7MhOUbDdk5/giphy.webp?cid=ecf05e47b1n2pk4at2767l78mt5ly9otop2ny2hsi7k5tfik&rid=giphy.webp&ct=s" width=300>
 </h3>
