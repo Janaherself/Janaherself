@@ -1,3 +1,3 @@
 <h3 align="center">
-<img src=<iframe src="https://giphy.com/embed/qVm68jDgac5nhiXhxU" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hey-heyyy-heyy-qVm68jDgac5nhiXhxU">via GIPHY</a></p> width=30>
+<img src="https://media1.giphy.com/media/qVm68jDgac5nhiXhxU/giphy.gif?cid=790b7611c5bde08049735d77ee82c476d3d670e49f1e0baf&rid=giphy.gif&ct=s" width=30>
 </h3>
