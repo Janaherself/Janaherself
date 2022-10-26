@@ -1,3 +1,3 @@
 <h3 align="center">
-<img src="https://media0.giphy.com/media/uIn4YsnzGZmumlneEZ/giphy.gif?cid=790b761142ac762139f72ef8143b0912bc5512701cdadbc3&rid=giphy.gif&ct=ts" width=200>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ephesis&size=40&pause=1000&width=500&height=100&lines=heyyyyy+++y'all!!)](https://git.io/typing-svg)
 </h3>
