@@ -1,6 +1,8 @@
 
 <h1> heyyy y'all! </h1>
 
+<img align="right" width="400" src="https://media2.giphy.com/media/fgmDFZTeECzjDPKepE/giphy.gif" />
+
 <p align="left">
 i'm jana, a outta-this-world geek 👩‍💻 <br/>
 here u can find me sharing my stuff -any kind of stuff that interest me! <br/>
