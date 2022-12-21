@@ -1,4 +1,4 @@
 ### heyyy y'all!
 
-<p style="font-size:300px;"> heyyy y'all! </p>
+<h1 style="font-size:300px;"> heyyy y'all! </h1>
 
