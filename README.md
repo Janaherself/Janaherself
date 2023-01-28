@@ -29,5 +29,5 @@ keep learning, stay hydrated! and follow me to make this world better 🐱‍�
 
   <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=d6c2d2">
+<img src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=d652d5">
   <br><br>
