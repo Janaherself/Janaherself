@@ -12,16 +12,16 @@ keep learning, stay hydrated! and follow me to make this world better 🐱‍�
 ### Reach me at:
 
 <a href="https://Janaherself.github.io">
-    <img height="40px" src="Images/Static/portfolio.png" title="Portfolio">
+    <img height="40px" src="portfolio.png" title="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jana-abusaa">
-    <img height="40px" src="Images/Static/linkedin.png" title="LinkedIn">
+    <img height="40px" src="linkedin.png" title="LinkedIn">
   </a>
   <a href="mailto:jana.abusaa@gmail.com">
-    <img height="40px" src="Images/Static/gmail.png" title="Mail">
+    <img height="40px" src="gmail.png" title="Mail">
   </a>
   <a href="https://twitter.com/Janaherselff">
-    <img height="40px" src="Images/Static/twitter.png" title="Twitter">
+    <img height="40px" src="twitter.png" title="Twitter">
   </a>
 
   <br><br>
