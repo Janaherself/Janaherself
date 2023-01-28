@@ -12,7 +12,7 @@ keep learning, stay hydrated! and follow me to make this world better 🐱‍�
 ### Reach me at:
 
 <a href="https://Janaherself.github.io">
-    <img height="40px" src="port.png" title="Portfolio">
+    <img height="40px" src="girl.jpeg" title="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jana-abusaa">
     <img height="40px" src="linkedin.png" title="LinkedIn">
