@@ -24,7 +24,7 @@ keep learning, stay hydrated! and follow me to make this world better 🐱‍�
     <img height="40px" src="twitter.png" title="Twitter">
   </a>
   <a href="https://instagram.com/Janaherselff">
-    <img height="40px" src="instagram.jpeg" title="Instagram">
+    <img height="40px" src="insatgram.png" title="Instagram">
   </a>
 
   <br><br>
