@@ -96,7 +96,7 @@
 
 </p>
 
-<p height="100px" align="right"> <img src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g"> </p>
+<p height="70px" width="70px" align="right"> <img src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g"> </p>
 
 <br>
 
