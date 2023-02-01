@@ -6,9 +6,9 @@
 
 <br>
 
-## Technologies I'm Familiar with
+## Technologies and Skills
 
-#### Programming and Markup languages
+### Programming and Markup languages
 <p align="center">
 
   <img height="35px" src="" title="python">
@@ -27,7 +27,7 @@
 
 </p>
 
-#### Software and Tools
+### Software and Tools
 <p align="center">
 
   <img height="35px" src="" title="pycharm">
@@ -54,7 +54,7 @@
 
 </p>
 
-#### Libraries and Packages
+### Libraries and Packages
 <p align="center">
 
   <img height="35px" src="" title="sci-kit learn">
@@ -96,14 +96,16 @@
 
 ## GitHub activity
 
-#### Streak
+### Streak
   <img src="https://streak-stats.demolab.com/?user=janaherself&theme=holi-theme&hide_border=true&sideNums=9D92FF&sideLabels=9D92FF&currStreakLabel=9D92FF" title="my github streak">
 
-#### Languages
+### Languages
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaherself&layout=compact&theme=material-palenight&title_color=9D92FF&bg_color=000015&hide_border=true" title="github most used languages">
 
-#### Views
+### Views
   <img src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=9D92FF" 
     title="profile views">
   
   <br>
+
+<p align="center"> <img src="https://media3.giphy.com/media/ENagATV1Gr9eg/giphy.gif?cid=ecf05e47l82d1cv4rhyineus2y4qjgqgll6qdbd7xgcmbhng&rid=giphy.gif&ct=g"> </p>
