@@ -110,7 +110,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaherself&layout=compact&theme=material-palenight&title_color=9D92FF&bg_color=000015&hide_border=true" title="github most used languages">
 
 ### 👀 Views
-  <img width="150px" height="50px" src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=9D92FF" 
+  <img width="150px" height="40px" src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=9D92FF" 
     title="profile views">
   
   <br>
