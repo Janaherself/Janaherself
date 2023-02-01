@@ -30,7 +30,14 @@
 
 ### -GitHub activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=janaherself&theme=holi-theme&hide_border=true&sideNums=9D92FF&sideLabels=9D92FF&currStreakLabel=9D92FF)](https://git.io/streak-stats)
-<img src="https://streak-stats.demolab.com/?user=janaherself&theme=holi-theme&hide_border=true&sideNums=9D92FF&sideLabels=9D92FF&currStreakLabel=9D92FF" title="my github streak">
-<img src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=9D92FF" title="profile views">
+#### Streak
+  <img src="https://streak-stats.demolab.com/?user=janaherself&theme=holi-theme&hide_border=true&sideNums=9D92FF&sideLabels=9D92FF&currStreakLabel=9D92FF" title="my github streak">
+
+#### Languages
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=janaherself&layout=compact&theme=material-palenight&title_color=9D92FF&bg_color=000015" title="github most used languages">
+
+#### Views
+  <img src="https://komarev.com/ghpvc/?username=janaherself&style=rounded-square&color=9D92FF" 
+    title="profile views">
+  
   <br>
