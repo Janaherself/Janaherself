@@ -7,19 +7,19 @@
 ### Reach me at:
 
 <a href="https://Janaherself.github.io">
-    <img height="40px" src="portfolio.png" title="Portfolio">
+    <img height="40px" src="/icons/portfolio.png" title="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/jana-abusaa">
-    <img height="40px" src="linkedin.png" title="LinkedIn">
+    <img height="40px" src="/icons/linkedin.png" title="LinkedIn">
   </a>
   <a href="mailto:jana.abusaa@gmail.com">
-    <img height="40px" src="gmail.png" title="Mail">
+    <img height="40px" src="/icons/gmail.png" title="Mail">
   </a>
   <a href="https://twitter.com/Janaherselff">
-    <img height="40px" src="twitter.png" title="Twitter">
+    <img height="40px" src="/icons/twitter.png" title="Twitter">
   </a>
   <a href="https://instagram.com/Janaherselff">
-    <img height="40px" src="instagram.png" title="Instagram">
+    <img height="40px" src="/icons/instagram.png" title="Instagram">
   </a>
 
   <br><br>
