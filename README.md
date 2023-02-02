@@ -40,57 +40,57 @@
 ### 🔡 Programming and Markup Languages
 <p align="center">
 
-  <img height="35px" src="/logos/python.png" title="Python">
-  <img height="35px" src="/logos/bash.png" title="Bash">
-  <img height="35px" src="/logos/csharp.png" title="C#">
-  <img height="35px" src="/logos/cpp.png" title="C++">
-  <img height="35px" src="/logos/c.png" title="C">
-  <img height="35px" src="/logos/java.png" title="Java">
-  <img height="35px" src="/logos/sql.png" title="SQL">
-  <img height="35px" src="/logos/javascript.png" title="JavaScript">
-  <img height="35px" src="/logos/html.png" title="HTML">
-  <img height="35px" src="/logos/css.png" title="CSS">
-  <img height="35px" src="/logos/php.png" title="PHP">
-  <img height="35px" src="/logos/go.png" title="Go">
-  <img height="35px" src="/logos/assembly.png" title="Assembly">
+  <img height="20px" src="/logos/python.png" title="Python">
+  <img height="20px" src="/logos/bash.png" title="Bash">
+  <img height="20px" src="/logos/csharp.png" title="C#">
+  <img height="20px" src="/logos/cpp.png" title="C++">
+  <img height="20px" src="/logos/c.png" title="C">
+  <img height="20px" src="/logos/java.png" title="Java">
+  <img height="20px" src="/logos/sql.png" title="SQL">
+  <img height="20px" src="/logos/javascript.png" title="JavaScript">
+  <img height="20px" src="/logos/html.png" title="HTML">
+  <img height="20px" src="/logos/css.png" title="CSS">
+  <img height="20px" src="/logos/php.png" title="PHP">
+  <img height="20px" src="/logos/go.png" title="Go">
+  <img height="20px" src="/logos/assembly.png" title="Assembly">
 
 </p>
 
 ### 🛠 Software and Tools
 <p align="center">
 
-  <img height="35px" src="/logos/pycharm.png" title="PyCharm">
-  <img height="35px" src="/logos/jupyter.png" title="Jupyter Notebook">
-  <img height="35px" src="/logos/vs.png" title="Visual Studio">
-  <img height="35px" src="/logos/vsc.png" title="VS Code">
-  <img height="35px" src="/logos/mysql.png" title="MySQL">
-  <img height="35px" src="/logos/sqlserver.png" title="SQL Server">
-  <img height="35px" src="/logos/weka.png" title="Weka">
-  <img height="35px" src="/logos/netbeans.png" title="NetBeans">
-  <img height="35px" src="/logos/virtualbox.png" title="VirtualBox">
-  <img height="35px" src="/logos/git.png" title="Git">
-  <img height="35px" src="/logos/facepager.png" title="Facepager">
-  <img height="35px" src="/logos/kaggle.png" title="Kaggle">
-  <img height="35px" src="/logos/docker.png" title="Docker">
-  <img height="35px" src="/logos/notion.png" title="Notion">
-  <img height="35px" src="/logos/figma.png" title="Figma">
-  <img height="35px" src="/logos/linux.png" title="Linux">
-  <img height="35px" src="/logos/fedora.png" title="Fedora">
-  <img height="35px" src="/logos/manjaro.png" title="Manjaro">
-  <img height="35px" src="/logos/opensuse.png" title="OpensSUSE">
+  <img height="20px" src="/logos/pycharm.png" title="PyCharm">
+  <img height="20px" src="/logos/jupyter.png" title="Jupyter Notebook">
+  <img height="20px" src="/logos/vs.png" title="Visual Studio">
+  <img height="20px" src="/logos/vsc.png" title="VS Code">
+  <img height="20px" src="/logos/mysql.png" title="MySQL">
+  <img height="20px" src="/logos/sqlserver.png" title="SQL Server">
+  <img height="20px" src="/logos/weka.png" title="Weka">
+  <img height="20px" src="/logos/netbeans.png" title="NetBeans">
+  <img height="20px" src="/logos/virtualbox.png" title="VirtualBox">
+  <img height="20px" src="/logos/git.png" title="Git">
+  <img height="20px" src="/logos/facepager.png" title="Facepager">
+  <img height="20px" src="/logos/kaggle.png" title="Kaggle">
+  <img height="20px" src="/logos/docker.png" title="Docker">
+  <img height="20px" src="/logos/notion.png" title="Notion">
+  <img height="20px" src="/logos/figma.png" title="Figma">
+  <img height="20px" src="/logos/linux.png" title="Linux">
+  <img height="20px" src="/logos/fedora.png" title="Fedora">
+  <img height="20px" src="/logos/manjaro.png" title="Manjaro">
+  <img height="20px" src="/logos/opensuse.png" title="OpensSUSE">
 
 </p>
 
 ### 📦 Libraries and Packages
 <p align="center">
 
-  <img height="35px" src="/logos/pandas.png" title="Pandas">
-  <img height="35px" src="/logos/numpy.png" title="Numpy">
-  <img height="35px" src="/logos/sklearn.png" title="Sci-Kit Learn">
-  <img height="35px" src="/logos/tensorflow.png" title="TensorFlow">
-  <img height="35px" src="/logos/keras.png" title="Keras">
-  <img height="35px" src="/logos/wpf.png" title="WPF">
-  <img height="35px" src="/logos/opengl.png" title="OpenGL">
+  <img height="20px" src="/logos/pandas.png" title="Pandas">
+  <img height="20px" src="/logos/numpy.png" title="Numpy">
+  <img height="20px" src="/logos/sklearn.png" title="Sci-Kit Learn">
+  <img height="20px" src="/logos/tensorflow.png" title="TensorFlow">
+  <img height="20px" src="/logos/keras.png" title="Keras">
+  <img height="20px" src="/logos/wpf.png" title="WPF">
+  <img height="20px" src="/logos/opengl.png" title="OpenGL">
 
 </p>
 
