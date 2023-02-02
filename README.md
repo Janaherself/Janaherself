@@ -99,9 +99,8 @@
 </p>
 
 <br>
-
-> **&emsp;Yeah, that's exactly me..&emsp;&emsp;** 
-> **<p align="center"> <img height="100" src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g"> </p>**
+ 
+> **<p align="center"> <img height="100" src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g"> &emsp;Yeah, that's exactly me..&emsp;&emsp; </p>**
 
 <br>
 
