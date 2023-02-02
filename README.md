@@ -6,7 +6,7 @@
 </p>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=9D92FF&vCenter=true&multiline=true&width=1000&height=150&lines=I'm+jana%2C+an+outta-this-world+geek+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Here+u+can+find+me+sharing+my+stuff+-any+kind+of+stuff+that+interests+me!+;Keep+learning%2C+stay+hydrated!+and+follow+me+to+make+this+world+better+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Indie+Flower&size=30&pause=1000&color=9D92FF&vCenter=true&multiline=true&width=1000&height=150&lines=I'm+jana%2C+an+outta-this-world+geek+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+;Here+u+can+find+me+sharing+any+kind+of+stuff+that+make+sence+to+me!+;Keep+learning%2C+stay+hydrated!+and+follow+me+to+make+this+world+better+%F0%9F%90%B1%E2%80%8D%F0%9F%8F%8D" alt="Typing SVG" />
   </a>
 
 <br>
