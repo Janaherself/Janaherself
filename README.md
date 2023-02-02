@@ -73,7 +73,7 @@
   <img height="35px" src="/logos/kaggle.png" title="Kaggle">
   <img height="35px" src="/logos/docker.png" title="Docker">
   <img height="35px" src="/logos/notion.png" title="Notion">
-  <img height="35px" src="/logos/figma/png" title="Figma">
+  <img height="35px" src="/logos/figma.png" title="Figma">
   <img height="35px" src="/logos/linux.png" title="Linux">
   <img height="35px" src="/logos/fedora.png" title="Fedora">
   <img height="35px" src="/logos/manjaro.png" title="Manjaro">
