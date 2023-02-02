@@ -95,9 +95,10 @@
   <img height="35px" src="/logos/keras.png" title="Keras">
   <img height="35px" src="/logos/wpf.png" title="WPF">
   <img height="35px" src="/logos/opengl.png" title="OpenGL">
-  <img src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g">
+  
 </p>
 
+<p> >>Yeah, that's exactly me.. <img src="https://media4.giphy.com/media/hFROvOhBPQVRm/giphy.gif?cid=ecf05e47oop5kp6csic7cu09f83t7bv33p6fjqz47yj1umkx&rid=giphy.gif&ct=g"> </p>
 <br>
 
 ## 🤹‍♂️ My GitHub activity
