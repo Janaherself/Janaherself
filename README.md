@@ -51,7 +51,6 @@
   <img height="35px" src="/logos/html.png" title="HTML">
   <img height="35px" src="/logos/css.png" title="CSS">
   <img height="35px" src="/logos/php.png" title="PHP">
-  <img height="35px" src="/logos/go.png" title="Go">
   <img height="35px" src="/logos/assembly.png" title="Assembly">
 
 </p>
