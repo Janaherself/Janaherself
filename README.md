@@ -16,19 +16,19 @@
 <p align="center">
 
   <a href="https://Janaherself.github.io">
-      <img height="55px" src="/icons/portfolio.png" title="portfolio">
+      <img width="55" height="55px" src="/icons/portfolio.png" title="portfolio">
     </a>
   <a href="https://www.linkedin.com/in/jana-abusaa">
-      <img height="55px" src="/icons/linkedin.png" title="linkedIn">
+      <img width="55" height="55px" src="/icons/linkedin.png" title="linkedIn">
     </a>
   <a href="mailto:jana.abusaa@gmail.com">
-      <img height="55px" src="/icons/gmail.png" title="email">
+      <img width="55" height="55px" src="/icons/gmail.png" title="email">
     </a>
   <a href="https://twitter.com/Janaherselff">
-      <img height="55px" src="/icons/twitter.png" title="twitter">
+      <img width="55" height="55px" src="/icons/twitter.png" title="twitter">
     </a>
   <a href="https://instagram.com/Janaherselff">
-      <img height="55px" src="/icons/instagram.png" title="instagram">
+      <img width="55" height="55px" src="/icons/instagram.png" title="instagram">
    </a>
 
 </p>
@@ -40,18 +40,18 @@
 ### 🔡 Programming and Markup Languages
 <p align="center">
 
-  <img height="35px" src="/logos/python.png" title="Python">
-  <img height="35px" src="/logos/bash.png" title="Bash">
-  <img height="35px" src="/logos/csharp.png" title="C#">
-  <img height="35px" src="/logos/cpp.png" title="C++">
-  <img height="35px" src="/logos/c.png" title="C">
-  <img height="35px" src="/logos/java.png" title="Java">
-  <img height="35px" src="/logos/sql.png" title="SQL">
-  <img height="35px" src="/logos/javascript.png" title="JavaScript">
-  <img height="35px" src="/logos/html.png" title="HTML">
-  <img height="35px" src="/logos/css.png" title="CSS">
-  <img height="35px" src="/logos/php.png" title="PHP">
-  <img height="35px" src="/logos/assembly.png" title="Assembly">
+  <img width="35" height="35px" src="/logos/python.png" title="Python">
+  <img width="35" height="35px" src="/logos/bash.png" title="Bash">
+  <img width="35" height="35px" src="/logos/csharp.png" title="C#">
+  <img width="35" height="35px" src="/logos/cpp.png" title="C++">
+  <img width="35" height="35px" src="/logos/c.png" title="C">
+  <img width="35" height="35px" src="/logos/java.png" title="Java">
+  <img width="35" height="35px" src="/logos/sql.png" title="SQL">
+  <img width="35" height="35px" src="/logos/javascript.png" title="JavaScript">
+  <img width="35" height="35px" src="/logos/html.png" title="HTML">
+  <img width="35" height="35px" src="/logos/css.png" title="CSS">
+  <img width="35" height="35px" src="/logos/php.png" title="PHP">
+  <img width="35" height="35px" src="/logos/assembly.png" title="Assembly">
 
 </p>
 
@@ -60,25 +60,25 @@
 ### 🛠 Software and Tools
 <p align="center">
 
-  <img height="35px" src="/logos/pycharm.png" title="PyCharm">
-  <img height="35px" src="/logos/jupyter.png" title="Jupyter Notebook">
-  <img height="35px" src="/logos/vs.png" title="Visual Studio">
-  <img height="35px" src="/logos/vsc.png" title="VS Code">
-  <img height="35px" src="/logos/mysql.png" title="MySQL">
-  <img height="35px" src="/logos/sqlserver.png" title="SQL Server">
-  <img height="35px" src="/logos/weka.png" title="Weka">
-  <img height="35px" src="/logos/netbeans.png" title="NetBeans">
-  <img height="35px" src="/logos/virtualbox.png" title="VirtualBox">
-  <img height="35px" src="/logos/git.png" title="Git">
-  <img height="35px" src="/logos/facepager.png" title="Facepager">
-  <img height="35px" src="/logos/kaggle.png" title="Kaggle">
-  <img height="35px" src="/logos/docker.png" title="Docker">
-  <img height="35px" src="/logos/notion.png" title="Notion">
-  <img height="35px" src="/logos/figma.png" title="Figma">
-  <img height="35px" src="/logos/linux.png" title="Linux">
-  <img height="35px" src="/logos/fedora.png" title="Fedora">
-  <img height="35px" src="/logos/manjaro.png" title="Manjaro">
-  <img height="35px" src="/logos/opensuse.png" title="OpensSUSE">
+  <img width="35" height="35px" src="/logos/pycharm.png" title="PyCharm">
+  <img width="35" height="35px" src="/logos/jupyter.png" title="Jupyter Notebook">
+  <img width="35" height="35px" src="/logos/vs.png" title="Visual Studio">
+  <img width="35" height="35px" src="/logos/vsc.png" title="VS Code">
+  <img width="35" height="35px" src="/logos/mysql.png" title="MySQL">
+  <img width="35" height="35px" src="/logos/sqlserver.png" title="SQL Server">
+  <img width="35" height="35px" src="/logos/weka.png" title="Weka">
+  <img width="35" height="35px" src="/logos/netbeans.png" title="NetBeans">
+  <img width="35" height="35px" src="/logos/virtualbox.png" title="VirtualBox">
+  <img width="35" height="35px" src="/logos/git.png" title="Git">
+  <img width="35" height="35px" src="/logos/facepager.png" title="Facepager">
+  <img width="35" height="35px" src="/logos/kaggle.png" title="Kaggle">
+  <img width="35" height="35px" src="/logos/docker.png" title="Docker">
+  <img width="35" height="35px" src="/logos/notion.png" title="Notion">
+  <img width="35" height="35px" src="/logos/figma.png" title="Figma">
+  <img width="35" height="35px" src="/logos/linux.png" title="Linux">
+  <img width="35" height="35px" src="/logos/fedora.png" title="Fedora">
+  <img width="35" height="35px" src="/logos/manjaro.png" title="Manjaro">
+  <img width="35" height="35px" src="/logos/opensuse.png" title="OpensSUSE">
 
 </p>
 
@@ -87,13 +87,13 @@
 ### 📦 Libraries and Packages
 <p align="center">
 
-  <img height="35px" src="/logos/pandas.png" title="Pandas">
-  <img height="35px" src="/logos/numpy.png" title="Numpy">
-  <img height="35px" src="/logos/sklearn.png" title="Sci-Kit Learn">
-  <img height="35px" src="/logos/tensorflow.png" title="TensorFlow">
-  <img height="35px" src="/logos/keras.png" title="Keras">
-  <img height="35px" src="/logos/wpf.png" title="WPF">
-  <img height="35px" src="/logos/opengl.png" title="OpenGL">
+  <img width="35" height="35px" src="/logos/pandas.png" title="Pandas">
+  <img width="35" height="35px" src="/logos/numpy.png" title="Numpy">
+  <img width="35" height="35px" src="/logos/sklearn.png" title="Sci-Kit Learn">
+  <img width="35" height="35px" src="/logos/tensorflow.png" title="TensorFlow">
+  <img width="35" height="35px" src="/logos/keras.png" title="Keras">
+  <img width="35" height="35px" src="/logos/wpf.png" title="WPF">
+  <img width="35" height="35px" src="/logos/opengl.png" title="OpenGL">
   
 </p>
 
