@@ -39,7 +39,7 @@
   <img width="35" height="35px" src="/logos/sql.png" title="SQL">
   <img width="35" height="35px" src="/logos/javascript.png" title="JavaScript">
   <img width="35" height="35px" src="/logos/typescript.png" title="TypeScript">
-  <img width="35" height="35px" src="/logos/html.png" title="HTML">
+  <img width="45" height="35px" src="/logos/html.png" title="HTML">
   <img width="35" height="35px" src="/logos/css.png" title="CSS">
 
 </p>
@@ -81,7 +81,6 @@
   <img width="35" height="35px" src="/logos/net.png" title=".NET">
   <img width="35" height="35px" src="/logos/react.png" title="React">
   <img width="35" height="35px" src="/logos/angular.png" title="Angular">
-  <img width="35" height="35px" src="/logos/efcore.png" title="EF Core">
   
 </p>
 
