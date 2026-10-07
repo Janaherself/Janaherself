@@ -15,7 +15,7 @@
 
 <p align="center">
 
-  <a href="https://Janaherself.github.io">
+  <a href="https://cute-cool-portfolio.vercel.app">
       <img width="55" height="55px" src="/icons/portfolio.png" title="portfolio">
     </a>
   <a href="https://www.linkedin.com/in/jana-abusaa">
